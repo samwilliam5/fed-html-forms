@@ -1,0 +1,10 @@
+*{
+   background-color: lightskyblue;
+   color: green;
+}
+fieldset{
+    border: solid 2px lightcoral;
+}
+legend{
+    color: blueviolet;
+}
